@@ -1,0 +1,23 @@
+{
+  "name": "crispy-doodle",
+  "version": "1.0.0",
+  "description": "Google Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oldgraybuzzard/crispy-doodle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oldgraybuzzard/crispy-doodle/issues"
+  },
+  "homepage": "https://github.com/oldgraybuzzard/crispy-doodle#readme",
+  "dependencies": {
+    "google-auth-library": "^8.4.0",
+    "googleapis": "^107.0.0"
+  }
+}
